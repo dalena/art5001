@@ -64,34 +64,37 @@
 \hyphenpenalty=10000
 % \sloppy
 
+\def\placeDate{%
+\begin{itemize}[noitemsep,topsep=0pt,leftmargin=*,label={}]%
+      \item \textcolor{defaultColor}{\textbf{\textsc{Mon \hspace{1mm} \dMon \hspace{1mm} --- \hspace{1mm} Wed \hspace{1mm} \dWed}}}%
+\end{itemize}%
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Course Variables
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\institution{OSU}
-\def\courseCode{ART 4401}
-\def\courseTitle{ART 4401: 3D Animation} 
-\def\courseNumber{ART 4401-0010} 
-\def\courseSemester{Autumn 2020}
-\def\courseTime{Tue/Thur 11:10AM--1:55PM}
-\def\courseLocation{Hopkins Hall 356} 
+\def\courseCode{ART 5001}
+\def\courseTitle{ART 5001: Sound \& Image} 
+\def\courseNumber{ART 5001-0010} 
+\def\courseSemester{Spring 2021}
+\def\courseTime{Mon/Wed 11:10AM--1:55PM}
+\def\courseLocation{Hopkins Hall 156} 
 \def\dalena{Dalena Tran}
-\def\dalenaURL{osu@dalena.me}
+\def\dalenaURL{tran.878@osu.edu}
 \def\dalenaEmail{\href{mailto:\dalenaURL}{{\dalenaURL}}}
 \def\hirad{Hirad Sab}
-\def\hiradURL{osu@hiradsab.com}
+\def\hiradURL{sab.1@osu.edu}
 \def\hiradEmail{\href{mailto:\hiradURL}{{\hiradURL}}}
 \def\zoomURL{https://osu.zoom.us/j/92337296593?pwd=ZUFScERqWkFBcEFrcXNDR053QnFSUT09}
-\def\zoomText{\href{\zoomURL}{{Zoom Link}}}
+\def\zoomText{\href{\zoomURL}{{Zoom Link UPDATE}}}
 \def\discordURL{https://discord.gg/SDQJkA6}
-\def\discordText{\href{\discordURL}{{Course Discord Server}}}
-\def\syllabusURL{https://github.com/hsab/art4401/raw/master/index.pdf}
-\def\syllabusDownloadText{\href{\syllabusURL}{\small{\texttt{bit.ly/4401syllabus}}}}
-\def\websiteURL{https://hsab.github.io/art4401/}
-\def\websiteText{\href{\websiteURL}{\small{\texttt{hsab.github.io/art4401}}}}
-\def\youtubeModelingURL{https://www.youtube.com/playlist?list=PLY3eFbxnBXhoeFgmblP2M7YzJO76jzAf6}
-\def\youtubeModelingText{\href{\youtubeModelingURL}{3101: 3D Modeling Playlist}}
-\def\youtubeAnimURL{https://www.youtube.com/playlist?list=PLY3eFbxnBXhraIJ0bSdXZNrunWyYGMyrx}
-\def\youtubeAnimText{\href{\youtubeAnimURL}{4401: 3D Animation Playlist}}
+\def\discordText{\href{\discordURL}{{Course Discord Server UPDATE}}}
+\def\syllabusURL{https://github.com/dalena/art5001/raw/master/index.pdf}
+\def\syllabusDownloadText{\href{\syllabusURL}{\small{Download this website as PDF}}}
+\def\websiteURL{https://dalena.github.io/art5001/}
+\def\websiteText{\href{\websiteURL}{\small{\texttt{dalena.github.io/art5001}}}}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Custom Lengths
@@ -116,20 +119,10 @@
       \textbf{Communication}     & \discordText               \\
       \textbf{Website}           & \websiteText               \\
       \textbf{Syllabus}          & \syllabusDownloadText      \\
-      \textbf{Recorded Lectures} & \youtubeModelingText       \\
-                                 & \youtubeAnimText           \\
+
 \end{tabularx}
 
 \small{\textbf{Note:} Texts in \textcolor{defaultColor}{blue} are clickable links}
-
-\subsection*{Exhibitions}
-
-\begin{itemize}
-      \tightlist
-      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p1/index.html}{P1: Inanimate, Animate}}}
-      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p2/index.html}{P2: Sonic Optics}}}
-      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p3/index.html}{P3: Open License}}}
-\end{itemize}
 
 \subfile{sections/intro}
 
