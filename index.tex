@@ -1,0 +1,152 @@
+
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+
+ 
+\documentclass[10pt,letter,english]{article}
+\usepackage[margin=1.0in]{geometry}
+
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{booktabs}
+
+
+\usepackage{soul} % letterspacing, underlining, and more
+\usepackage[T1]{fontenc}
+\makeatletter
+\@ifpackageloaded{tex4ht}{}{%
+      \usepackage[sfdefault]{merriweather}
+      \usepackage{beramono}
+}
+\makeatother
+
+
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % euro and other symbols
+\usepackage{parskip}
+
+\usepackage{enumitem}% http://ctan.org/pkg/enumitem
+
+
+\usepackage{xcolor}
+\usepackage{sectsty}
+\definecolor{defaultColor}{rgb}{0.2,0.2,1}
+\chapterfont{\color{defaultColor}}
+\sectionfont{\color{defaultColor}} 
+
+\usepackage{xurl}
+\usepackage{bookmark}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{
+      colorlinks,
+      linkcolor={defaultColor},
+      citecolor={blue!50!black},
+      urlcolor={defaultColor}
+}
+
+\usepackage[normalem]{ulem}
+
+\usepackage{subfiles} % Best loaded last in the preamble
+
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+      \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}%
+}
+
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+\hyphenpenalty=10000
+% \sloppy
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Course Variables
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\def\institution{OSU}
+\def\courseCode{ART 4401}
+\def\courseTitle{ART 4401: 3D Animation} 
+\def\courseNumber{ART 4401-0010} 
+\def\courseSemester{Autumn 2020}
+\def\courseTime{Tue/Thur 11:10AM--1:55PM}
+\def\courseLocation{Hopkins Hall 356} 
+\def\dalena{Dalena Tran}
+\def\dalenaURL{osu@dalena.me}
+\def\dalenaEmail{\href{mailto:\dalenaURL}{{\dalenaURL}}}
+\def\hirad{Hirad Sab}
+\def\hiradURL{osu@hiradsab.com}
+\def\hiradEmail{\href{mailto:\hiradURL}{{\hiradURL}}}
+\def\zoomURL{https://osu.zoom.us/j/92337296593?pwd=ZUFScERqWkFBcEFrcXNDR053QnFSUT09}
+\def\zoomText{\href{\zoomURL}{{Zoom Link}}}
+\def\discordURL{https://discord.gg/SDQJkA6}
+\def\discordText{\href{\discordURL}{{Course Discord Server}}}
+\def\syllabusURL{https://github.com/hsab/art4401/raw/master/index.pdf}
+\def\syllabusDownloadText{\href{\syllabusURL}{\small{\texttt{bit.ly/4401syllabus}}}}
+\def\websiteURL{https://hsab.github.io/art4401/}
+\def\websiteText{\href{\websiteURL}{\small{\texttt{hsab.github.io/art4401}}}}
+\def\youtubeModelingURL{https://www.youtube.com/playlist?list=PLY3eFbxnBXhoeFgmblP2M7YzJO76jzAf6}
+\def\youtubeModelingText{\href{\youtubeModelingURL}{3101: 3D Modeling Playlist}}
+\def\youtubeAnimURL{https://www.youtube.com/playlist?list=PLY3eFbxnBXhraIJ0bSdXZNrunWyYGMyrx}
+\def\youtubeAnimText{\href{\youtubeAnimURL}{4401: 3D Animation Playlist}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Custom Lengths
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newlength{\weeksLength}
+\newlength{\programLength}
+\setlength{\weeksLength}{.15\textwidth}
+\setlength{\programLength}{.85\textwidth}
+
+\begin{document}
+
+\section[\courseCode]{\courseTitle}
+
+\begin{tabularx}{\textwidth}{@{}l X@{}}
+      \textbf{\courseNumber}     & \courseSemester            \\
+      \textbf{Days \& Time}      & \courseTime                \\
+      \textbf{Location}          & \courseLocation            \\
+      \textbf{Virtual Meetings}  & \zoomText (Pass: 075686)                  \\
+      \textbf{Instructors}       & \dalena --- \dalenaEmail   \\
+                                 & \hirad --- \hiradEmail     \\
+      \textbf{Office Hours}      & By appointment (\zoomText) \\
+      \textbf{Communication}     & \discordText               \\
+      \textbf{Website}           & \websiteText               \\
+      \textbf{Syllabus}          & \syllabusDownloadText      \\
+      \textbf{Recorded Lectures} & \youtubeModelingText       \\
+                                 & \youtubeAnimText           \\
+\end{tabularx}
+
+\small{\textbf{Note:} Texts in \textcolor{defaultColor}{blue} are clickable links}
+
+\subsection*{Exhibitions}
+
+\begin{itemize}
+      \tightlist
+      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p1/index.html}{P1: Inanimate, Animate}}}
+      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p2/index.html}{P2: Sonic Optics}}}
+      \item {\large \textbf{\href{https://hsab.github.io/art4401/projects/p3/index.html}{P3: Open License}}}
+\end{itemize}
+
+\subfile{sections/intro}
+
+\clearpage
+
+\subfile{sections/projects}
+
+\clearpage
+
+\subfile{sections/calendar}
+
+\clearpage
+
+\subfile{sections/outro}
+
+\clearpage
+
+\subfile{sections/resource}
+
+\end{document}
