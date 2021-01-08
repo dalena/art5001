@@ -3,6 +3,10 @@ INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.tex
 OUTPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.log
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/./style/style.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/./style/style.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/./style/style.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/./style/style.tex
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/latex/url/url.sty
@@ -561,6 +565,10 @@ INPUT /usr/share/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texmf-dist/tex/latex/import/import.sty
 INPUT /usr/share/texmf-dist/tex/latex/import/import.sty
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/course-info.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/course-info.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/course-info.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/course-info.tex
 INPUT /usr/share/texmf-dist/tex/latex/merriweather/T1MerriwthrSans-OsF.fd
 INPUT /usr/share/texmf-dist/tex/latex/merriweather/T1MerriwthrSans-OsF.fd
 INPUT /usr/share/texmf-dist/tex/latex/merriweather/T1MerriwthrSans-OsF.fd
@@ -699,30 +707,30 @@ INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/se
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week1.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week1.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week1.tex
-INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1.tfm
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
-INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Italic-osf-t1.tfm
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
+INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1.tfm
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
+INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week3.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week4.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week4.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week4.tex
@@ -866,10 +874,10 @@ INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/se
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week16.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week16.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week16.tex
-INPUT /usr/share/texmf-dist/fonts/vf/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1.vf
-INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1--base.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/sorkin/merriweather/MerriwthrSans-Italic-osf-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Italic-osf-t1--base.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/sorkin/merriweather/MerriwthrSans-Bold-osf-sc-t1--base.tfm
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/outro.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/outro.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/outro.tex
@@ -893,8 +901,8 @@ INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/se
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/resource.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/resource.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.aux
-INPUT /usr/share/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_ags7qn.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_2hyv6t.enc
+INPUT /usr/share/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_ags7qn.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/merriweather/merriwthr_owzwzj.enc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texmf-dist/fonts/type1/sorkin/merriweather/MerriwthrSans-Bold.pfb

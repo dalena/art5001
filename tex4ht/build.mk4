@@ -25,14 +25,14 @@ end
 Make:match("html$", function(filename, args)
   return move_file(filename, args)
 end)
-
-Make:match("css$", function(filename, args)
-  return copy_file(filename, args)
-end)
-
-Make:match("js$", function(filename, args)
-  return copy_file(filename, args)
-end)
+-- 
+-- Make:match("css$", function(filename, args)
+--   return copy_file(filename, args)
+-- end)
+-- 
+-- Make:match("js$", function(filename, args)
+--   return copy_file(filename, args)
+-- end)
 
 
 Make:match("tmp$", function(filename, args)

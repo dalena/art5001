@@ -1,6 +1,6 @@
 INFO: latexindent version 3.8.3, 2020-11-06, a script to indent .tex files
       latexindent lives here: /usr/share/texmf-dist/scripts/latexindent/
-      Thu Jan  7 00:57:13 2021
+      Thu Jan  7 18:39:40 2021
       Filename: /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/__latexindent_temp.tex
 INFO: Processing switches:
       -y|--yaml: YAML settings specified via command line
@@ -13,7 +13,7 @@ INFO: YAML settings read: indentconfig.yaml or .indentconfig.yaml
       To specify user settings you would put indentconfig.yaml here: /home/hirad/indentconfig.yaml
       Alternatively, you can use the hidden file .indentconfig.yaml as: /home/hirad/.indentconfig.yaml
 INFO: YAML settings read: -y switch
-      Updating masterSettings with defaultIndent:     
+      Updating masterSettings with defaultIndent:       
 INFO: Phase 1: searching for objects
 INFO: Phase 2: finding surrounding indentation
 INFO: Phase 3: indenting objects
