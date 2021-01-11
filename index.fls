@@ -548,6 +548,7 @@ INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/in
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.fls
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/intro.tex
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 INPUT /home/hirad/.texlive/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -573,7 +574,6 @@ INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/se
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.fls
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.fls
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week1.tex
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex
 INPUT /mnt/D/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/sections/weeks/week2.tex

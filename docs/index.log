@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=dvilualatex 2021.1.7)  10 JAN 2021 17:11
+This is LuaTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=dvilualatex 2021.1.7)  11 JAN 2021 02:34
  restricted system commands enabled.
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCode"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ./tex4ht/config.cfg,,charset=utf-8,html5.a.b.c.\input "\detokenize{index}"
 Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
@@ -250,6 +250,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \c@discchallenge=\count279
 \c@discreading=\count280
 \c@discproject=\count281
+\c@dissoundlib=\count282
 ) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks26
@@ -267,8 +268,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen175
 \enit@toks=\toks28
 \enit@inbox=\box56
-\enit@count@id=\count282
-\enitdp@description=\count283
+\enit@count@id=\count283
+\enitdp@description=\count284
 ) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/share/texmf-dist/tex/generic/tex4ht/graphics-hooks.4ht
@@ -346,8 +347,8 @@ Package auxhook Warning: Cannot patch \document,
 
 )
 \@linkdim=\dimen178
-\Hy@linkcounter=\count284
-\Hy@pagecounter=\count285
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 ) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -355,7 +356,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count286
+\Hy@SavedSpaceFactor=\count287
 Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
@@ -364,7 +365,7 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count287
+\c@Hy@tempcnt=\count288
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen179
 (/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
@@ -372,7 +373,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count288
+\Fld@menulength=\count289
 \Field@Width=\dimen180
 \Fld@charsize=\dimen181
 \Field@toks=\toks30
@@ -389,7 +390,7 @@ LaTeX Info: Redefining \pageref on input line 6421.
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
 with kernel methods
 )
-\Hy@abspage=\count289
+\Hy@abspage=\count290
 
 Package hyperref Message: Stopped early.
 
@@ -400,7 +401,7 @@ File: htex4ht.def 2020-05-15 v7.00e Hyperref driver for TeX4ht
 Package hyperref Info: tex4ht is already loaded.
 ) (/usr/share/texmf-dist/tex/latex/bookmark/bkm-dvips.def
 File: bkm-dvips.def 2020-11-06 v1.29 bookmark driver for dvips (HO)
-\BKM@id=\count290
+\BKM@id=\count291
 )) (/usr/share/texmf-dist/tex/generic/tex4ht/xcolor-hooks.4ht
 version 2020-10-17-13:53
 )
@@ -411,7 +412,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 62.
 \UL@skip=\skip59
 \UL@hook=\toks31
 \UL@height=\dimen182
-\UL@pe=\count291
+\UL@pe=\count292
 \UL@pixel=\dimen183
 \ULC@box=\box59
 Package: ulem 2019/11/18
@@ -434,7 +435,7 @@ version 2020-03-12-14:03
 ) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.sty
 version 2020-10-16-13:47
 --- needs --- tex4ht index ---
-\tmp:cnt=\count292
+\tmp:cnt=\count293
 
 \openout15 = index.tmp
 (./index.tmp)
@@ -544,7 +545,7 @@ version 2018-08-30-15:28
 Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
 (/usr/share/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
 Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
-\@catcodetablestackcnt=\count293
+\@catcodetablestackcnt=\count294
 )
 \CatcodeTableOther=\catcodetable12
 \CatcodeTableExpl=\catcodetable13
@@ -880,7 +881,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count294
+\c@section@level=\count295
 ) (/usr/share/texmf-dist/tex/generic/tex4ht/nameref.4ht
 version 2019-12-23-13:36
 (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
@@ -1007,27 +1008,27 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <9> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 30.
-[2] [3] [4] [5] [6]) [7] (./sections/projects.tex) [8
+[2] [3] [4] [5] [6] [7]) [8] (./sections/projects.tex) [9
 
-] (./sections/calendar.tex (./sections/weeks/week1.tex) (./sections/weeks/week2.tex) (./sections/weeks/week3.tex) (./sections/weeks/week4.tex) (./sections/weeks/week5.tex) (./sections/weeks/week6.tex) (./sections/weeks/week7.tex) (./sections/weeks/week8.tex) (./sections/weeks/week9.tex) (./sections/weeks/week10.tex) (./sections/weeks/week11.tex) (./sections/weeks/week12.tex) (./sections/weeks/week13.tex) (./sections/weeks/week14.tex) (./sections/weeks/week15.tex) (./sections/weeks/week16.tex) [9
+] (./sections/calendar.tex (./sections/weeks/week1.tex) (./sections/weeks/week2.tex) (./sections/weeks/week3.tex) (./sections/weeks/week4.tex) (./sections/weeks/week5.tex) (./sections/weeks/week6.tex) (./sections/weeks/week7.tex) (./sections/weeks/week8.tex) (./sections/weeks/week9.tex) (./sections/weeks/week10.tex) (./sections/weeks/week11.tex) (./sections/weeks/week12.tex) (./sections/weeks/week13.tex) (./sections/weeks/week14.tex) (./sections/weeks/week15.tex) (./sections/weeks/week16.tex) [10
 
-] [10]) [11] (./sections/outro.tex [12
+] [11]) [12] (./sections/outro.tex [13
 
-] [13] [14] [15] [16] [17] [18]) [19] (./sections/resource.tex [20
+] [14] [15] [16] [17] [18] [19]) [20] (./sections/resource.tex [21
 
-] [21] [22])
+] [22] [23])
 \BKM@file=\write5
 
 \openout5 = index.out.ps
-[23] (./index.aux))
+[24] (./index.aux))
 
 Here is how much of LuaTeX's memory you used:
- 17181 strings out of 478898
- 125086,953878 words of node,token memory allocated
+ 17205 strings out of 478898
+ 244334,953878 words of node,token memory allocated
  485 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 2 glyph, 6 attribute, 59 glue_spec, 6 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1596,3:2544,4:39,5:426,6:277,7:7651,8:8,9:1577,10:38,11:663
- 33950 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:3492,3:5344,4:40,5:1028,6:477,7:22075,8:8,9:2937,10:38,11:1156
+ 33974 multiletter control sequences out of 65536+600000
  60 fonts using 5451679 bytes
- 98i,9n,121p,2158b,931s stack positions out of 5000i,500n,10000p,200000b,100000s
-Output written on index.dvi (23 pages, 115628 bytes).
+ 98i,9n,121p,2158b,958s stack positions out of 5000i,500n,10000p,200000b,100000s
+Output written on index.dvi (24 pages, 149628 bytes).

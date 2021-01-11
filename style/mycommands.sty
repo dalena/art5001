@@ -8,6 +8,7 @@
 \newcounter{discchallenge}
 \newcounter{discreading}
 \newcounter{discproject}
+\newcounter{dissoundlib}
 
 \newenvironment{discordenv}{}{}
 
@@ -21,6 +22,13 @@
 \stepcounter{discexercise}%
 \begin{discordenv}%
         \textbf{Exercises\ding{220}exercise-\arabic{discexercise}}%
+    \end{discordenv}%
+}
+
+\newcommand{\discordS}{%
+\stepcounter{dissoundlib}%
+\begin{discordenv}%
+        \textbf{Sound Library\ding{220}sounds-\arabic{dissoundlib}}%
     \end{discordenv}%
 }
 
