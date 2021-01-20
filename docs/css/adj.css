@@ -215,6 +215,11 @@ span.discord-path {
     opacity: 1;
 }
 
+.resource-highlight {
+    text-shadow: 0px 0px 10px rgb(var(--osu-red));
+    font-weight: 500;
+}
+
 ul.itemize3 {
     padding: 0;
 }
@@ -223,4 +228,13 @@ ul.itemize3 {
     width: 1.5em;
     height: auto;
     margin-bottom: -0.4em;
+}
+
+@media print {
+    .tableofcontents {
+        display: none;
+    }
+    .auto-anchor {
+        display: none;
+    }
 }
