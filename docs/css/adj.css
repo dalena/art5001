@@ -19,6 +19,20 @@ li.itemize {
     margin-left: 2em;
 }
 
+.longtable ul.itemize1>li {
+    margin-bottom: 0.5em;
+    padding: 0.2em;
+    padding-left: 0.4em;
+    border: 2px solid rgb(var(--osu-red), 0.5);
+    border-left: 1em solid rgb(var(--osu-red), 1);
+    border-radius: 4px;
+}
+
+.longtable td>ul>li {
+    margin-left: 0px !important;
+    list-style: none;
+}
+
 table.longtable {
     table-layout: fixed;
     width: 100%;
@@ -78,6 +92,11 @@ body {
 
 b {
     font-weight: 600;
+}
+
+em {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
 }
 
 table {

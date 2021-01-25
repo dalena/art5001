@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
-
 body {
     padding: 0;
     margin: 0px 50px;
-
     font-family: 'Merriweather Sans', sans-serif;
     line-height: 1.4em;
     font-size: 1.3em;
@@ -18,7 +16,6 @@ body {
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-
 }
 
 h1 {
@@ -32,7 +29,8 @@ h1 {
     line-height: .9em;
     text-align: center;
 }
-.logo h2{
+
+.logo h2 {
     /* margin: 1em 0 3em 0; */
     padding: 0;
     text-decoration: none;
@@ -43,6 +41,7 @@ h1 {
     letter-spacing: .1em;
     margin-top: 2em;
 }
+
 a,
 .button {
     color: #000;
@@ -52,7 +51,6 @@ a,
     border-bottom: 1px solid black;
     cursor: pointer;
     transition: all 0.5s ease;
-
     /* background: yellow; */
 }
 
@@ -62,24 +60,25 @@ a:hover,
     cursor: pointer;
 }
 
-h3{
+h3 {
     margin-bottom: 0px;
     font-weight: 200;
     font-size: 1.75em;
     line-height: 1.4em;
-
 }
-h4{
+
+h4 {
     font-size: 1em;
     line-height: 1.2em;
     margin-top: 10px;
     font-weight: 200;
 }
 
-p{
+p {
     /* margin-top: 0px; */
     padding-bottom: 50px;
 }
+
 .container {
     max-width: 1900px;
     height: 100vh;
@@ -90,15 +89,15 @@ p{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
-
     height: 100%;
 }
 
-.vid, .vid img{
+.vid,
+.vid img {
     text-align: center;
 }
 
-.embedVid{
+.embedVid {
     /* border: 1px solid; */
     /* padding: 10px; */
     box-shadow: 10px 12px #000;
@@ -111,122 +110,126 @@ p{
     box-shadow: 10px 12px purple;
 } */
 
-video:hover, img:hover {
+video:hover,
+img:hover {
     /* box-shadow: 10px 12px magenta; */
     cursor: pointer;
     background-color: #9fff99;
     /* background-color: #ff99ff; */
 }
 
-
-.v01{
+.v01 {
     grid-column: 1;
     grid-row: 1;
 }
 
-.v02{
+.v02 {
     grid-column: 2;
     grid-row: 2;
 }
 
-.v03{
+.v03 {
     grid-column: 3;
     grid-row: 1;
 }
 
-.v04{
+.v04 {
     grid-column: 1;
     grid-row: 3;
 }
 
-.v05{
+.v05 {
     grid-column: 2;
     grid-row: 4;
 }
 
-.v06{
+.v06 {
     grid-column: 3;
     grid-row: 3;
 }
-.v07{
+
+.v07 {
     grid-column: 1;
     grid-row: 5;
 }
 
-.v08{
+.v08 {
     grid-column: 2;
     grid-row: 6;
 }
 
-.v09{
+.v09 {
     grid-column: 3;
     grid-row: 5;
 }
-.v10{
+
+.v10 {
     grid-column: 1;
     grid-row: 7;
 }
-.v11{
+
+.v11 {
     grid-column: 3;
     grid-row: 7;
 }
-.v12{
+
+.v12 {
     grid-column: 2;
     grid-row: 8;
 }
-.v13{
+
+.v13 {
     grid-column: 1;
     grid-row: 9;
 }
-.v14{
+
+.v14 {
     grid-column: 3;
     grid-row: 9;
 }
-.v15{
+
+.v15 {
     grid-column: 2;
     grid-row: 10;
 }
-.v16{
+
+.v16 {
     grid-column: 1;
     grid-row: 11;
 }
-.v17{
+
+.v17 {
     grid-column: 3;
     grid-row: 11;
 }
-.v18{
+
+.v18 {
     grid-column: 2;
     grid-row: 12;
 }
-
-
 
 @media screen and (max-width: 800px) {
     body {
         margin: 2em;
     }
-
     h1 {
         font-size: 5em;
         line-height: 1em;
     }
-
 }
 
 @media screen and (max-width: 1100px) {
     body {
         margin: 2em;
     }
-
     h1 {
         font-size: 3em;
     }
-    h3{
+    h3 {
         font-size: 1.75em;
     }
-    .grid{
+    .grid {
         display: flex;
         flex-direction: column;
     }
-
 }
