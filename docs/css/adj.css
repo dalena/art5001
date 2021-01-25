@@ -151,6 +151,10 @@ span.paragraphHead {
     font-weight: 700;
 }
 
+h5.subsubsectionHead {
+    font-size: 1em;
+}
+
 h4.subsectionHead,
 h4.likesubsectionHead {
     font-size: 1.2em;
