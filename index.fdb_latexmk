@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1611800155 "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.tex" "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.pdf" "index" 1611800165
+["lualatex"] 1612193937 "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.tex" "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.pdf" "index" 1612193947
   "./style/mycommands.sty" 1611528972 1639 cd92408c2656d53e4b667c8e471cb56c ""
   "./style/style.tex" 1611530293 2533 64aca502cbb7faeac6a38d9b448f4eed ""
   "/home/hirad/.texlive/texmf-var/luatex-cache/generic/fonts/hb/:usr:share:fonts:joypixels:JoyPixels.ttf:1" 1610168744 130016 b66342be7ad9b0a0a7b2b74f9fe9321c ""
@@ -23,7 +23,7 @@
   "/home/hirad/.texlive/texmf-var/luatex-cache/generic/fonts/otl/merriweathersans-regular.luc" 1610165698 317744 2828156eb0af46ac710d3b37f07731a0 ""
   "/home/hirad/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc" 1610170172 1336 d6290c64e90c29a1ed5807ea53e37ec9 ""
   "/home/hirad/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-names.luc" 1610168481 1114224 4a79bd9b78155666086f6eed8e85938e ""
-  "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.aux" 1611800165 34818 e49a670dceef189d8f3810c0eb00019b ""
+  "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.aux" 1612193947 34818 e49a670dceef189d8f3810c0eb00019b ""
   "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.tex" 1610305113 1143 710021d04cc2342d5b283317db452f60 ""
   "/usr/share/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.otf" 1607249373 112680 8bab1cbacdfe2fe22ce627aaf5174f5d ""
   "/usr/share/texmf-dist/fonts/opentype/sorkin/merriweather/MerriweatherSans-Bold.otf" 1607188752 132764 0e70a12e6a29663c15d8e82165b023a8 ""
@@ -191,7 +191,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1610084546 4905560 e67924595f5bf8ecf79c2804cb9bbc27 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1610084527 3235021 661a92867799cc61e5140f4cc76f960f ""
   "course-info.tex" 1610350983 1451 9e32e4734dfad8626d2f038185315cdf ""
-  "index.aux" 1611800165 34818 e49a670dceef189d8f3810c0eb00019b "lualatex"
+  "index.aux" 1612193947 34818 e49a670dceef189d8f3810c0eb00019b "lualatex"
   "index.tex" 1610305113 1143 710021d04cc2342d5b283317db452f60 ""
   "sections/calendar.tex" 1611550965 2992 57c98815b9adfcbcc4c3541add73b744 ""
   "sections/intro.tex" 1611539297 19978 bd31a6f2c9d01b5cd9072006ab14959f ""
@@ -207,8 +207,8 @@
   "sections/weeks/week15.tex" 1610345114 398 0f7b14440c985f8d985a812886e0097b ""
   "sections/weeks/week16.tex" 1610316153 312 2585ca3ff654d3d6d23b581294675d4f ""
   "sections/weeks/week2.tex" 1611246836 2010 1a92ac8259dfdf0a7c655160373d93f8 ""
-  "sections/weeks/week3.tex" 1611597329 3834 096686987333949becccce5f0c216a70 ""
-  "sections/weeks/week4.tex" 1611800108 4311 f313a50c41ea81332df82c2c942eb9ce ""
+  "sections/weeks/week3.tex" 1612193894 2960 4b496ab8f409ad0924939876a0c826b9 ""
+  "sections/weeks/week4.tex" 1612193889 5185 3124190dfd7297b830a8a3aec5d1ec8c ""
   "sections/weeks/week5.tex" 1610351201 1072 a862aad90b4c701a656905548f2a7805 ""
   "sections/weeks/week6.tex" 1610351201 800 ae4257a4ecfd29b4d9b72760f95f7a70 ""
   "sections/weeks/week7.tex" 1610344901 380 640cef7a0e1b09cc0a6367aee6d047dd ""
@@ -217,8 +217,8 @@
   "style/mycommands.sty" 1611528972 1639 cd92408c2656d53e4b667c8e471cb56c ""
   "style/style.tex" 1611530293 2533 64aca502cbb7faeac6a38d9b448f4eed ""
   (generated)
-  "index.pdf"
   "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.pdf"
   "index.aux"
-  "index.log"
+  "index.pdf"
   "/mnt/d/Google Drive/Office/Courses/2021 Spring - ART 5001 - OSU/art5001/index.log"
+  "index.log"

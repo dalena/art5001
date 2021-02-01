@@ -16,7 +16,7 @@ table.longtable>tbody>tr:not(:nth-child(1))>td:first-child {
 
 table.longtable>tbody>tr:not(:nth-child(1))>td:first-child>p {
     white-space: nowrap;
-    height: calc(100% - 2em);
+    height: calc(100% - 4em);
     min-height: 80px;
     vertical-align: middle;
     /* border-right: 12px solid black; */
