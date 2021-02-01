@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=dvilualatex 2021.1.8)  1 FEB 2021 10:38
+This is LuaTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=dvilualatex 2021.1.8)  1 FEB 2021 10:45
  restricted system commands enabled.
 **\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCode"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ./tex4ht/config.cfg,,charset=utf-8,html5.a.b.c.\input "\detokenize{index}"
 Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
@@ -1065,11 +1065,11 @@ LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <9> not available
 
 Here is how much of LuaTeX's memory you used:
  19016 strings out of 478898
- 305420,953878 words of node,token memory allocated
+ 305422,953878 words of node,token memory allocated
  495 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 2 glyph, 6 attribute, 61 glue_spec, 6 attribute_list, 1 write nodes
-   avail lists: 1:1,2:3950,3:6718,4:41,5:1456,6:542,7:29807,8:8,9:3905,10:38,11:1642
+   avail lists: 1:1,2:3970,3:6740,4:41,5:1458,6:544,7:29869,8:8,9:3911,10:38,11:1644
  35716 multiletter control sequences out of 65536+600000
  61 fonts using 5534359 bytes
  107i,9n,128p,2214b,980s stack positions out of 5000i,500n,10000p,200000b,100000s
-Output written on index.dvi (27 pages, 177600 bytes).
+Output written on index.dvi (27 pages, 177740 bytes).
