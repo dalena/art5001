@@ -1,73 +1,66 @@
-This is LuaTeX, Version 1.12.0 (MiKTeX 2.9.7300 64-bit)  (format=dvilualatex 2021.1.20)  8 FEB 2021 11:29
+This is LuaTeX, Version 1.12.0 (TeX Live 2020/Arch Linux)  (format=dvilualatex 2021.1.8)  10 FEB 2021 10:58
  restricted system commands enabled.
-**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx\HCode\def\HCod
-e##1{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g
-@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\doc
-umentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname te
-x4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HC
-ode}{\documentstyle[tex4ht]}}}\makeatother\HCode ./tex4ht/config.cfg,,charset=u
-tf-8,html5.a.b.c.\input \detokenize{index} > nul 2>&1
-Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
-Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initialization
-Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
-Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended collection.
-Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
-Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
-Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / config file reader
-luaotfload | conf : Root cache directory is C:/Users/Dalena/AppData/Local/MiKTeX/2.9/luatex-cache/generic-dev/names.
-luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse-resolved path “C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/luatex/luaotfload/fontloader-2020-01-26.lua”.
-Lua-only attribute luaotfload@state = 2
-Lua-only attribute luaotfload@noligature = 3
-Lua-only attribute luaotfload@syllabe = 4
-luaotfload | init : Context OpenType loader version “3.11”
+**\makeatletter\def\HCode{\futurelet\HCode\HChar}\def\HChar{\ifx"\HCode\def\HCode"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.{\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode ./tex4ht/config.cfg,,charset=utf-8,html5.a.b.c.\input "\detokenize{index}"
+Lua module: luaotfload-main 2020-09-02 3.15 luaotfload entry point
+Lua module: luaotfload-init 2020-09-02 3.15 luaotfload submodule / initialization
+Lua module: lualibs 2020-08-31 2.72 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-08-31 2.72 ConTeXt Lua libraries -- extended collection.
+Lua module: luaotfload-log 2020-09-02 3.15 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-09-02 3.15 luaotfload submodule / parsers
+Lua module: luaotfload-configuration 2020-09-02 3.15 luaotfload submodule / config file reader
+luaotfload | conf : Root cache directory is "/home/hirad/.texlive/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2020-08-31.lua" from kpse-resolved path "/usr/share/texmf-dist/tex/luatex/luaotfload/fontloader-2020-08-31.lua".
+Lua-only attribute luaotfload@noligature = 1
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
+Lua module: luaotfload-fallback 2020-09-02 3.15 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-09-02 3.15 luaotfload submodule / multiscript
+Lua module: luaotfload-script 2020-09-02 3.15 luaotfload submodule / Script helpers
 Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
 Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
-Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback handling
+Inserting `luaotfload.glyph_stream' at position 1 in `glyph_stream_provider'.
+Lua module: luaotfload-loaders 2020-09-02 3.15 luaotfload submodule / callback handling
 Inserting `luaotfload.define_font' at position 1 in `define_font'.
-Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
-Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode helpers
-Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
-Lua-only attribute luaotfload_color_attribute = 5
-Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolvers
-luaotfload | conf : Root cache directory is C:/Users/Dalena/AppData/Local/MiKTeX/2.9/luatex-cache/generic-dev/names.
-Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
-Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
-Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliary functions
+Lua module: luaotfload-database 2020-09-02 3.15 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-09-02 3.15 luaotfload submodule / Unicode helpers
+Lua module: luaotfload-colors 2020-09-02 3.15 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 3
+Lua module: luaotfload-resolvers 2020-09-02 3.15 luaotfload submodule / resolvers
+luaotfload | conf : Root cache directory is "/home/hirad/.texlive/texmf-var/luatex-cache/generic/names".
+Lua module: luaotfload-features 2020-09-02 3.15 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2020-09-02 3.15 luaotfload submodule / letterspacing
+Lua module: luaotfload-embolden 2020-09-02 3.15 luaotfload submodule / embolden
+Lua module: luaotfload-notdef 2020-09-02 3.15 luaotfload submodule / notdef
+Lua module: luaotfload-suppress 2020-09-02 3.15 luaotfload submodule / suppress
+Lua module: luaotfload-szss 2020-09-02 3.15 luaotfload submodule / Special feature handling
+Lua module: luaotfload-auxiliary 2020-09-02 3.15 luaotfload submodule / auxiliary functions
 Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
-Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
-Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multiscript
-Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script helpers
-Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicode
+Lua module: luaotfload-tounicode 2020-09-02 3.15 luaotfload submodule / tounicode
+Lua module: luaotfload-dvi 2020-09-02 3.15 luaotfload submodule / DVI
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'.
-(./index.tex (./style/style.tex ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX
- 2.9/tex/latex/base/article.cls"
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
-luaotfload | db : Font names database loaded from C:/Users/Dalena/AppData/Local/
-MiKTeX/2.9/luatex-cache/generic-dev/names/luaotfload-names.luc)
-\c@part=\count163
-\c@section=\count164
-\c@subsection=\count165
-\c@subsubsection=\count166
-\c@paragraph=\count167
-\c@subparagraph=\count168
-\c@figure=\count169
-\c@table=\count170
+(./index.tex (./style/style.tex (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/hirad/.texlive/texmf-var/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/tex4ht.s
-ty"
-version 2019-03-18-15:24
+\bibindent=\dimen138
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-10-16-13:47
 Package: tex4ht 
 --------------------------------------
 --- Note --- for _ at preamble, use the command line option `early_'
@@ -75,405 +68,275 @@ Package: tex4ht
 --------------------------------------
 --- Note --- for ^ at preamble, use the command line option `early^'
 --------------------------------------
-\tmp:toks=\toks14
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry
-.sty"
+\tmp:toks=\toks15
+) (/usr/share/texmf-dist/tex/generic/tex4ht/usepackage.4ht
+version 2020-10-17-13:53
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.s
-ty"
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/iftex/ifvtex.st
-y"
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/iftex/iftex.sty
-"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count171
-\Gm@cntv=\count172
-\c@Gm@tempcnt=\count173
-\Gm@bindingoffset=\dimen135
-\Gm@wd@mp=\dimen136
-\Gm@odd@mp=\dimen137
-\Gm@even@mp=\dimen138
-\Gm@layoutwidth=\dimen139
-\Gm@layoutheight=\dimen140
-\Gm@layouthoffset=\dimen141
-\Gm@layoutvoffset=\dimen142
-\Gm@dimlist=\toks16
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry
-.cfg"))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/tabularx.st
-y"
+\Gm@cnth=\count181
+\Gm@cntv=\count182
+\c@Gm@tempcnt=\count183
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen143
-\ar@mcellbox=\box45
-\extrarowheight=\dimen144
-\NC@list=\toks17
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen147
+\ar@mcellbox=\box47
+\extrarowheight=\dimen148
+\NC@list=\toks18
 \extratabsurround=\skip49
 \backup@length=\skip50
-\ar@cellbox=\box46
+\ar@cellbox=\box48
 )
-\TX@col@width=\dimen145
-\TX@old@table=\dimen146
-\TX@old@col=\dimen147
-\TX@target=\dimen148
-\TX@delta=\dimen149
-\TX@cols=\count174
-\TX@ftn=\toks18
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/multirow/multirow
-.sty"
+\TX@col@width=\dimen149
+\TX@old@table=\dimen150
+\TX@old@col=\dimen151
+\TX@target=\dimen152
+\TX@delta=\dimen153
+\TX@cols=\count184
+\TX@ftn=\toks19
+) (/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip51
-\multirow@cntb=\count175
+\multirow@cntb=\count185
 \multirow@dima=\skip52
-\bigstrutjot=\dimen150
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/longtable.s
-ty"
+\bigstrutjot=\dimen154
+) (/usr/share/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip53
 \LTright=\skip54
 \LTpre=\skip55
 \LTpost=\skip56
-\LTchunksize=\count176
-\LTcapwidth=\dimen151
-\LT@head=\box47
-\LT@firsthead=\box48
-\LT@foot=\box49
-\LT@lastfoot=\box50
-\LT@cols=\count177
-\LT@rows=\count178
-\c@LT@tables=\count179
-\c@LT@chunks=\count180
-\LT@p@ftn=\toks19
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/booktabs/booktabs
-.sty"
+\LTchunksize=\count186
+\LTcapwidth=\dimen155
+\LT@head=\box49
+\LT@firsthead=\box50
+\LT@foot=\box51
+\LT@lastfoot=\box52
+\LT@cols=\count187
+\LT@rows=\count188
+\c@LT@tables=\count189
+\c@LT@chunks=\count190
+\LT@p@ftn=\toks20
+) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen152
-\lightrulewidth=\dimen153
-\cmidrulewidth=\dimen154
-\belowrulesep=\dimen155
-\belowbottomsep=\dimen156
-\aboverulesep=\dimen157
-\abovetopsep=\dimen158
-\cmidrulesep=\dimen159
-\cmidrulekern=\dimen160
-\defaultaddspace=\dimen161
-\@cmidla=\count181
-\@cmidlb=\count182
-\@aboverulesep=\dimen162
-\@belowrulesep=\dimen163
-\@thisruleclass=\count183
-\@lastruleclass=\count184
-\@thisrulewidth=\dimen164
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen168
+) (/usr/share/texmf-dist/tex/latex/enotez/enotez.sty (/usr/share/texmf-dist/tex/generic/tex4ht/expl3-hooks.4ht
+version 2020-10-17-13:53
+) (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-12-03 L3 programming layer (loader) 
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-09-24 L3 backend support: dvips
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count195
+\l__pdf_backend_content_box=\box54
+\l__pdf_backend_model_box=\box55
+\g__pdf_backend_annotation_int=\count196
+\g__pdf_backend_link_int=\count197
+\g__pdf_backend_link_sf_int=\count198
+)) (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/generic/tex4ht/expl3-hooks.4ht
+version 2020-10-17-13:53
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/currfile/currfile
-.sty"
-Package: currfile 2020/09/29 v0.7d Provides the file path elements of the curren
-t input file
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/kvoptions/kvoptio
-ns.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ltxcmds/ltxcmds
-.sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+Package: xparse 2020-10-27 L3 Experimental document command parser
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)) (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texmf-dist/tex/generic/tex4ht/expl3-hooks.4ht
+version 2020-10-17-13:53
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/kvsetkeys/kvset
-keys.sty"
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+) (/usr/share/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty (/usr/share/texmf-dist/tex/generic/tex4ht/expl3-hooks.4ht
+version 2020-10-17-13:53
+)
+Package: xtemplate 2020-10-27 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen169
+\l__xtemplate_tmp_int=\count199
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip57
+)
+Package: enotez 2020/01/16 v0.10b Endnotes for LaTeX2e
+\l__enotez_list_preamble_skip=\skip58
+\l__enotez_list_postamble_skip=\skip59
+\g__enotez_endnote_id_int=\count266
+\g__enotez_endnote_mark_int=\count267
+\c@endnote=\count268
+\g__enotez_list_printed_int=\count269
+\l__enotez_tmpa_int=\count270
+
+Package xtemplate Info: Declaring object type 'enotez-list' taking 1
+(xtemplate)             argument(s) on line 473.
+
+\l__enotez_list_notes_sep_dim=\dimen170
+(/usr/share/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2020/11/08 v1.9 internationalization of LaTeX2e packages (CN)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+))) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+) (/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+\pdftexcmds@toks=\toks21
+))) (/usr/share/texmf-dist/tex/latex/currfile/currfile.sty
+Package: currfile 2020/09/29 v0.7d Provides the file path elements of the current input file
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/filehook/filehook
-.sty"
+)) (/usr/share/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2020/09/29 v0.8a Hooks for input files
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/filehook/filehook
--2019.sty"
-Package: filehook-2019 2020/09/29 v0.8a Hooks for input files
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/currfile/currfile
--abspath.sty"
-Package: currfile-abspath 2020/09/29 v0.7d Provides absolute file paths, the par
-ent working directory and the main file name
+(/usr/share/texmf-dist/tex/latex/filehook/filehook-2020.sty
+Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
+)) (/usr/share/texmf-dist/tex/latex/currfile/currfile-abspath.sty
+Package: currfile-abspath 2020/09/29 v0.7d Provides absolute file paths, the parent working directory and the main file name
 )
-\c@currfiledepth=\count185
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/soul/soul.sty
-"
+\c@currfiledepth=\count272
+) (/usr/share/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks20
-\SOUL@lasttoken=\toks21
-\SOUL@cmds=\toks22
-\SOUL@buffer=\toks23
-\SOUL@token=\toks24
-\SOUL@spaceskip=\skip57
-\SOUL@ttwidth=\dimen165
-\SOUL@uldp=\dimen166
-\SOUL@ulht=\dimen167
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/fontenc.st
-y"
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
-.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/lm/t1lmr.fd"
+\SOUL@word=\toks22
+\SOUL@lasttoken=\toks23
+\SOUL@cmds=\toks24
+\SOUL@buffer=\toks25
+\SOUL@token=\toks26
+\SOUL@spaceskip=\skip60
+\SOUL@ttwidth=\dimen171
+\SOUL@uldp=\dimen172
+\SOUL@ulht=\dimen173
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112.
+(/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge-fontspec.4ht"
-version 2020-01-24-14:39
-tex4ht warning: package fontenc was prevented from loading
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3.st
-y"
-Package: expl3 2020-02-25 L3 programming layer (loader) 
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3backend/l3backe
-nd-dvips.def"
-File: l3backend-dvips.def 2020-02-23 L3 backend support: dvips
-\l__pdf_internal_box=\box51
-\g__pdf_backend_object_int=\count186
-\l__pdf_backend_content_box=\box52
-\l__pdf_backend_model_box=\box53
-\g__pdf_backend_annotation_int=\count187
-\g__pdf_backend_link_int=\count188
-\g__pdf_backend_link_sf_int=\count189
-))))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec
-.sty"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xparse
-/xparse.sty"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-)
-Package: xparse 2020-02-25 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count190
-\g__xparse_grabber_int=\count191
-\l__xparse_m_args_int=\count192
-\l__xparse_v_nesting_int=\count193
-)
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/fontspec-hooks.4ht
+version 2020-10-17-13:53
+(/usr/share/texmf-dist/tex/generic/tex4ht/usepackage-fontspec.4ht
+version 2020-09-02-14:24
+)) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec
--luatex.sty"
-Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count194
-\l__fontspec_language_int=\count195
-\l__fontspec_strnum_int=\count196
-\l__fontspec_tmp_int=\count197
-\l__fontspec_tmpa_int=\count198
-\l__fontspec_tmpb_int=\count199
-\l__fontspec_tmpc_int=\count266
-\l__fontspec_em_int=\count267
-\l__fontspec_emdef_int=\count268
-\l__fontspec_strong_int=\count269
-\l__fontspec_strongdef_int=\count270
-\l__fontspec_tmpa_dim=\dimen168
-\l__fontspec_tmpb_dim=\dimen169
-\l__fontspec_tmpc_dim=\dimen170
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/fontspec/fontspec
-.cfg")))
-luaotfload | cache : Lookup cache loaded from C:/Users/Dalena/AppData/Local/MiKT
-eX/2.9/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
-luaotfload | db : Reload initiated (formats: otf,ttf,ttc); reason: "Font JoyPixe
-ls not found.".
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-! Package fontspec Error: The font "JoyPixels" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.27 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | aux : no font with id 0
-luaotfload | aux : no font with id 0
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "JoyPixels/BI" (it probably
-(fontspec)             doesn't exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "JoyPixels/B" (it probably
-(fontspec)             doesn't exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-Package fontspec Info: Could not resolve font "JoyPixels/I" (it probably
-(fontspec)             doesn't exist).
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-! Package fontspec Error: The font "JoyPixels" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.27 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-luaotfload | resolve : sequence of 3 lookups yielded nothing appropriate.
-
-! Package fontspec Error: The font "JoyPixels" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.27 
-   
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-Package fontspec Info: Font family 'JoyPixels(0)' created for font 'JoyPixels'
-(fontspec)             with options [Renderer=Harfbuzz].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"JoyPixels:mode=harf;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-(./style/mycommands.sty
+Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count273
+\l__fontspec_language_int=\count274
+\l__fontspec_strnum_int=\count275
+\l__fontspec_tmp_int=\count276
+\l__fontspec_tmpa_int=\count277
+\l__fontspec_tmpb_int=\count278
+\l__fontspec_tmpc_int=\count279
+\l__fontspec_em_int=\count280
+\l__fontspec_emdef_int=\count281
+\l__fontspec_strong_int=\count282
+\l__fontspec_strongdef_int=\count283
+\l__fontspec_tmpa_dim=\dimen174
+\l__fontspec_tmpb_dim=\dimen175
+\l__fontspec_tmpc_dim=\dimen176
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (./style/mycommands.sty
 
 LaTeX Warning: You have requested package `./style/mycommands',
                but the package provides `mycommands'.
 
 Package: mycommands 
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/pifont.sty
-"
+(/usr/share/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/upzd.fd"
+(/usr/share/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/psnfss/upsy.fd"
+(/usr/share/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ifthen.st
-y"
+)) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/etoolbox/etoolbox
-.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count271
-)
-\c@discexercise=\count272
-\c@discchallenge=\count273
-\c@discreading=\count274
-\c@discproject=\count275
-\c@dissoundlib=\count276
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/inputenc.s
-ty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
+\c@discexercise=\count284
+\c@discchallenge=\count285
+\c@discreading=\count286
+\c@discproject=\count287
+\c@dissoundlib=\count288
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks27
+\inpenc@posthook=\toks28
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/textcomp.s
-ty"
+) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/parskip/parskip.s
-ty"
+) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2020-06-15 v2.0f non-zero parskip adjustments
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/enumitem/enumitem
-.sty"
+) (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip58
-\enit@outerparindent=\dimen171
-\enit@toks=\toks27
-\enit@inbox=\box54
-\enit@count@id=\count277
-\enitdp@description=\count278
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx
-.sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics
-.sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
-"
+\labelindent=\skip61
+\enit@outerparindent=\dimen177
+\enit@toks=\toks29
+\enit@inbox=\box56
+\enit@count@id=\count289
+\enitdp@description=\count290
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/generic/tex4ht/graphics-hooks.4ht
+version 2020-10-17-13:53
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/grap
-hics.cfg"
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 105.
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/dvip
-s.def"
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
-\Gin@req@height=\dimen172
-\Gin@req@width=\dimen173
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.s
-ty"
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
+) (/usr/share/texmf-dist/tex/generic/tex4ht/xcolor-hooks.4ht
+version 2020-10-17-13:53
+) (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/colo
-r.cfg"
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: dvips.def on input line 225.
@@ -485,11 +348,8 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/sectsty/sectsty.s
-ty"
-Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styl
-es
+) (/usr/share/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 LaTeX Warning: Command \underbar  has changed.
                Check if current package is valid.
@@ -498,210 +358,142 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xurl/xurl.sty"
+) (/usr/share/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2020/01/24 v 0.09 modify URL breaks
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/url/url.sty"
-\Urlmuskip=\muskip16
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/bookmark/bookmark
-.sty"
-Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/hyperref
-.sty"
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pdftexcmds/pdftex
-cmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/infwarerr/infwa
-rerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
-\pdftexcmds@toks=\toks28
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/kvdefinekeys/kv
-definekeys.sty"
+)) (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pdfescape/pdfes
-cape.sty"
+) (/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hycolor/hycolor.s
-ty"
+) (/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/letltxmacro/letlt
-xmacro.sty"
+) (/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/auxhook/auxhook.s
-ty"
+) (/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 
 Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
 )
-\@linkdim=\dimen174
-\Hy@linkcounter=\count279
-\Hy@pagecounter=\count280
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/pd1enc.d
-ef"
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/intcalc/intcalc
-.sty"
+\@linkdim=\dimen180
+\Hy@linkcounter=\count291
+\Hy@pagecounter=\count292
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+) (/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/etexcmds/etexcm
-ds.sty"
+) (/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count281
-Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+\Hy@SavedSpaceFactor=\count293
+Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count282
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen175
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/bitset/bitset.s
-ty"
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count294
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen181
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/bigintcalc/bigi
-ntcalc.sty"
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
-
 ))
-\Fld@menulength=\count283
-\Field@Width=\dimen176
-\Fld@charsize=\dimen177
-\Field@toks=\toks29
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring ON on input line 6448.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/atbegshi/atbegs
-hi.sty"
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+\Fld@menulength=\count295
+\Field@Width=\dimen182
+\Fld@charsize=\dimen183
+\Field@toks=\toks30
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring ON on input line 6365.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
 )
-\Hy@abspage=\count284
+\Hy@abspage=\count296
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver: htex4ht.
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/htex4ht.
-def"
-File: htex4ht.def 2020/01/14 v7.00d Hyperref driver for TeX4ht
+(/usr/share/texmf-dist/tex/latex/hyperref/htex4ht.def
+File: htex4ht.def 2020-05-15 v7.00e Hyperref driver for TeX4ht
 Package hyperref Info: tex4ht is already loaded.
+) (/usr/share/texmf-dist/tex/latex/bookmark/bkm-dvips.def
+File: bkm-dvips.def 2020-11-06 v1.29 bookmark driver for dvips (HO)
+\BKM@id=\count297
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/xcolor-hooks.4ht
+version 2020-10-17-13:53
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/bookmark/bkm-dvip
-s.def"
-File: bkm-dvips.def 2019/12/03 v1.28 bookmark driver for dvips (HO)
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/atveryend/atverye
-nd.sty"
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-)
-\BKM@id=\count285
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/usepacka
-ge.4ht"
-version 2019-12-19-14:27
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 62.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ulem/ulem.sty"
-\UL@box=\box55
-\UL@hyphenbox=\box56
-\UL@skip=\skip59
-\UL@hook=\toks30
-\UL@height=\dimen178
-\UL@pe=\count286
-\UL@pixel=\dimen179
-\ULC@box=\box57
+Package hyperref Info: Option `colorlinks' set `true' on input line 66.
+(/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box57
+\UL@hyphenbox=\box58
+\UL@skip=\skip62
+\UL@hook=\toks31
+\UL@height=\dimen184
+\UL@pe=\count298
+\UL@pixel=\dimen185
+\ULC@box=\box59
 Package: ulem 2019/11/18
-\ULdepth=\dimen180
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/subfiles/subfiles
-.sty"
-Package: subfiles 2020/02/14 v1.6 Multi-file projects (package)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/import/import.sty
-"
+\ULdepth=\dimen186
+) (/usr/share/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+(/usr/share/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
 ))
-\weeksLength=\skip60
-\programLength=\skip61
-) (./course-info.tex) (./tex4ht/config.cfg (./tex4ht/tools.sty)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/tex4ht.4
-ht"
-version 2018-12-30-09:29
+\weeksLength=\skip63
+\programLength=\skip64
+) (./course-info.tex) (./tex4ht/config.cfg (./tex4ht/tools.sty) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.4ht
+version 2020-03-12-14:03
 --------------------------------------
 --- Note --- for additional information, use the command line option `info'
 --------------------------------------
 ::::::::::::::::::::::::::::::::::::::::::
  TeX4ht info is available in the log file 
 ::::::::::::::::::::::::::::::::::::::::::
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/tex4ht.s
-ty"
-version 2019-03-18-15:24
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tex4ht.sty
+version 2020-10-16-13:47
 --- needs --- tex4ht index ---
-\tmp:cnt=\count287
+\tmp:cnt=\count299
 
 \openout15 = index.tmp
 (./index.tmp)
-\tmp:dim=\skip62
+\tmp:dim=\skip65
 (./index.xref)
 \:refout=\write3
 
 \openout3 = index.xref
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
---- Note --- to remove the <?xml version=...?> processing instruction use the co
-mmand line option `no-VERSION'
+--- Note --- to remove the <?xml version=...?> processing instruction use the command line option `no-VERSION'
 --------------------------------------
 --------------------------------------
---- Note --- to remove the DOCTYPE declaration use the command line option `no-D
-OCTYPE'
+--- Note --- to remove the DOCTYPE declaration use the command line option `no-DOCTYPE'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
 )
 --------------------------------------
 --- Note --- for marking of the base font, use the command line option `fonts+'
@@ -718,31 +510,22 @@ version 2019-11-21-13:36
 --------------------------------------
 --- Note --- for ^ of catcode 13, use the command line option `^13'
 --------------------------------------
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
---- Note --- For section filenames that reflect on their titles use the command 
-line option `sec-filename'
+--- Note --- For section filenames that reflect on their titles use the command line option `sec-filename'
 --------------------------------------
 --------------------------------------
---- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (Ch
-aracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switche
-s of tex4ht.c) 
+--- Note --- for jpg bitmaps of pictures, use the `jpg' command line option. (Character bitmaps are controled only by `g' records of tex4ht.env and `-g' switches of tex4ht.c) 
 --------------------------------------
 --------------------------------------
---- Note --- for gif bitmaps of pictures, use the `gif' command line option. (Ch
-aracter bitmaps are controled only by `g' records of tex4ht.env and `-g' switche
-s of tex4ht.c) 
+--- Note --- for gif bitmaps of pictures, use the `gif' command line option. (Character bitmaps are controled only by `g' records of tex4ht.env and `-g' switches of tex4ht.c) 
 --------------------------------------
 --------------------------------------
---- Note --- for content and toc in 2 frames, use the command line option `frame
-s'
+--- Note --- for content and toc in 2 frames, use the command line option `frames'
 --------------------------------------
 --------------------------------------
---- Note --- for content, toc, and footnotes in 3 frames, use the command line o
-ption `frames-fn'
+--- Note --- for content, toc, and footnotes in 3 frames, use the command line option `frames-fn'
 --------------------------------------
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
@@ -755,27 +538,20 @@ TeX4ht package options: charset=utf-8,html5,html,xhtml,1,TocLink,NoFonts,-css
 --- Note --- for pop ups on mouse over, use the command line option `mouseover'
 --------------------------------------
 --------------------------------------
---- Note --- for addressing images in a subdirectory, use the command line optio
-n `imgdir:.../'
+--- Note --- for addressing images in a subdirectory, use the command line option `imgdir:.../'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
 )
-\:tokwrite=\toks31
-\:tokpage=\toks32
+\:tokwrite=\toks32
+\:tokpage=\toks33
 --------------------------------------
 --- Note --- for back links to toc, use the command line option `sections+'
 --------------------------------------
@@ -787,46 +563,73 @@ version 2019-11-21-13:36
 \:tocout=\write4
 
 \openout4 = index.4tc
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/latex.4h
-t"
-version 2019-08-26-14:22
-LaTeX Info: Redefining \_ on input line 168.
---------------------------------------
---- Note --- for links into captions, instead of float heads, use the command li
-ne option `refcaption'
---------------------------------------
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/latex.4ht
+version 2020-10-03-14:24
+LaTeX Info: Redefining \_ on input line 173.
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 112.
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (/usr/share/texmf-dist/tex/generic/kastrup/binhex.tex) (/usr/share/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2020/08/10 v2.0s Standard LaTeX file
+\@remove@tlig@@@@=\luafunction11
+LaTeX Font Info:    Redeclaring font encoding TU on input line 106.
+) (/usr/share/texmf-dist/tex/generic/tex4ht/tuenc-luatex.4ht
+version 2018-08-30-15:28
+(/usr/share/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+(/usr/share/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count300
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
+\CatcodeTableOther=\catcodetable12
+\CatcodeTableExpl=\catcodetable13
+) (/usr/share/texmf-dist/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
+\luacode@lines=\toks34
+\luacode@table@soft=\catcodetable14
 )
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+Inserting `Char to entity' at position 2 in `pre_linebreak_filter'.
+Inserting `hpack-char-to-entity' at position 2 in `hpack_filter'.
+Inserting `hpack-char-to-entity' at position 1 in `vpack_filter'. (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+))
+LaTeX Info: Redefining \, on input line 787.
+LaTeX Info: Redefining \; on input line 788.
+LaTeX Info: Redefining \! on input line 789.
+LaTeX Info: Redefining \: on input line 790.
+LaTeX Info: Redefining \> on input line 791.
 --------------------------------------
---- Note --- For mini tocs immediately aftter the header use the command line op
-tion `minitoc<'
+--- Note --- for links into captions, instead of float heads, use the command line option `refcaption'
+--------------------------------------
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+--------------------------------------
+--- Note --- For mini tocs immediately aftter the header use the command line option `minitoc<'
 --------------------------------------
 --------------------------------------
---- Note --- for enumerated list elements with valued data, use the command line
- option `enumerate+'
+--- Note --- for enumerated list elements with valued data, use the command line option `enumerate+'
 --------------------------------------
 --------------------------------------
---- Note --- for enumerated list elements li's with value attributes, use the co
-mmand line option `enumerate-'
+--- Note --- for enumerated list elements li's with value attributes, use the command line option `enumerate-'
 --------------------------------------
 --------------------------------------
 --- Note --- for CSS2 code, use the command line option `css2'
@@ -844,22 +647,15 @@ mmand line option `enumerate-'
 --- Note --- for inline footnotes use command line option `fn-in'
 --------------------------------------
 --------------------------------------
---- Note --- for tracing of latex font commands, use the command line option `fo
-nts'
+--- Note --- for tracing of latex font commands, use the command line option `fonts'
 --------------------------------------
 --------------------------------------
---- Note --- for width specifications of tabular p entries, use the `p-width' co
-mmand line option or a configuration similar to \Configure{HColWidth}{\HCode{ st
-yle="width:\HColWidth"}}
+--- Note --- for width specifications of tabular p entries, use the `p-width' command line option or a configuration similar to \Configure{HColWidth}{\HCode{ style="width:\HColWidth"}}
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
 --------------------------------------
 --- Note --- for pictorial eqnarray, use the command line option `pic-eqnarray'
 --------------------------------------
@@ -867,586 +663,312 @@ version 2019-12-16-15:21
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
 --------------------------------------
---- Note --- for pictorial $...$ environments, use the command line option `pic-
-m' (not recommended!!)
+--- Note --- for pictorial $...$ environments, use the command line option `pic-m' (not recommended!!)
 --------------------------------------
 --------------------------------------
---- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use th
-e command line option `pic-m+' (not safe!!)
+--- Note --- for pictorial $...$ and $$...$$ environments with latex alt, use the command line option `pic-m+' (not safe!!)
 --------------------------------------
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/fontmath
-.4ht"
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/fontmath.4ht
 version 2018-11-06-15:55
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/article.
-4ht"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/article.4ht (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
 --- Note --- for tocs without * entries, use command line option `notoc*'
 --------------------------------------
 --------------------------------------
---- Note --- for frames-like object-based table of contents, use the command lin
-e option `obj-toc'
+--- Note --- for frames-like object-based table of contents, use the command line option `obj-toc'
 --------------------------------------
 --------------------------------------
---- Note --- for files named derived from section titles, use the command line o
-ption `sec-filename'
+--- Note --- for files named derived from section titles, use the command line option `sec-filename'
 --------------------------------------
 --------------------------------------
---- Note --- to eliminate mini tables of contents, use the command line option `
-nominitoc'
+--- Note --- to eliminate mini tables of contents, use the command line option `nominitoc'
 --------------------------------------
 --------------------------------------
 --- Note --- for tocs without * entries, use command line option `notoc*'
 --------------------------------------
 --------------------------------------
---- Note --- for i-columns index, use the command line option `index=i' (e.g., i
-ndex=2)
+--- Note --- for i-columns index, use the command line option `index=i' (e.g., index=2)
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/geometry
-.4ht"
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/geometry.4ht
 version 2016-07-01-08:55
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/tabularx
-.4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/tabularx.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/array.4h
-t"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/array.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
 --------------------------------------
 --- Note --- for pictorial array, use the command line option `pic-array'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/multirow
-.4ht"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/longtabl
-e.4ht"
-\LT:box=\box58
-\LT:ebox=\box59
-\tmp:bx=\box60
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/multirow.4ht (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/longtable.4ht
+\LT:box=\box60
+\LT:ebox=\box61
+\tmp:bx=\box62
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
---- Note --- for pictorial longtable, use the command line option `pic-longtable
-'
+--- Note --- for pictorial longtable, use the command line option `pic-longtable'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/booktabs
-.4ht"
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/booktabs.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-)) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/soul.
-4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/soul.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/fontspec
-.4ht"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/fontspec
--luatex.4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/fontspec.4ht (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/fontspec-luatex.4ht
 version 2017-01-24-15:21
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/pifont.4
-ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/pifont.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/ifthen.4
-ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/ifthen.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/inputenc
-.4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/inputenc.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/enumitem
-.4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/enumitem.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/graphicx
-.4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/graphicx.4ht
 version 2018-10-01-14:24
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/graphics
-.4ht"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/graphics.4ht (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
---- Note --- if included graphics are of degraded quality, try the command line 
-options `graphics-num' or `graphics-'. The `num' should provide the density of p
-ixels in the bitmaps (e.g., 110). 
+--- Note --- if included graphics are of degraded quality, try the command line options `graphics-num' or `graphics-'. The `num' should provide the density of pixels in the bitmaps (e.g., 110). 
 --------------------------------------
 --------------------------------------
---- Note --- for key dimensions try the option `Gin-dim'; for key dimensions whe
-n bounding box is unavailable try `Gin-dim+'; neither is recommended
+--- Note --- for key dimensions try the option `Gin-dim'; for key dimensions when bounding box is unavailable try `Gin-dim+'; neither is recommended
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/dvips.4h
-t"
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/dvips.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/xcolor.4
-ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/xcolor.4ht
 version 2019-04-09-10:06
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/color.4h
-t"
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/color.4h
-t") ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/url.
-4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/color.4ht (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/color.4ht) (/usr/share/texmf-dist/tex/generic/tex4ht/url.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
 --------------------------------------
 --- Note --- for URL encoding within href use the command line option `url-enc'
 --------------------------------------
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/hyperref
-.4ht"
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/hyperref.4ht
 version 2019-09-14-15:17
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/hyperref/nameref.
-sty"
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/refcount/refcount
-.sty"
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/gettitlestring/
-gettitlestring.sty"
+) (/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count288
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/nameref.
-4ht"
+\c@section@level=\count301
+) (/usr/share/texmf-dist/tex/generic/tex4ht/nameref.4ht
 version 2019-12-23-13:36
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
 ))
 LaTeX Info: Redefining \autoref on input line 95.
-\Hy@SectionHShift=\skip63
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/pd1enc.4
-ht"
+\Hy@SectionHShift=\skip66
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/pd1enc.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-)) ("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/ulem.
-4ht"
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/ulem.4ht
 version 2009-05-21-09:32
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
+(/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
+)) (/usr/share/texmf-dist/tex/generic/tex4ht/html4.4ht
+version 2020-11-27-15:09
+) (/usr/share/texmf-dist/tex/generic/tex4ht/unicode.4ht
+version 2020-09-18-15:30
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html4-math.4ht
+version 2020-11-09-14:28
+) (/usr/share/texmf-dist/tex/generic/tex4ht/html5.4ht
+version 2020-04-13-14:20
 ))
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4.4h
-t"
-version 2020-01-24-14:39
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/unicode.
-4ht"
-version 2019-12-28-14:40
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html4-ma
-th.4ht"
-version 2019-12-16-15:21
-)
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/generic/tex4ht/html5.4h
-t"
-version 2019-11-21-13:36
-))
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 71.
 
 LaTeX Warning: Unused global option(s):
     [letter].
@@ -1454,29 +976,28 @@ LaTeX Warning: Unused global option(s):
 (./index.aux)
 \openout1 = index.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 69
-.
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ts1cmr.fd"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 71.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 71.
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
+LaTeX Font Info:    ... okay on input line 71.
 *geometry* driver: auto-detecting
 *geometry* detected driver: dvips
 *geometry* verbose mode - [ preamble ] result:
@@ -1511,71 +1032,44 @@ LaTeX Font Info:    ... okay on input line 69.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box61
-Package hyperref Info: Link coloring ON on input line 69.
-LaTeX Info: Redefining \ref on input line 69.
-LaTeX Info: Redefining \pageref on input line 69.
-LaTeX Info: Redefining \nameref on input line 69.
+(/usr/share/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 71.
+Package hyperref Info: Link coloring ON on input line 71.
+LaTeX Info: Redefining \ref on input line 71.
+LaTeX Info: Redefining \pageref on input line 71.
+LaTeX Info: Redefining \nameref on input line 71.
 ) (./index.4ct)
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 7.
-
-("C:/Users/Dalena/AppData/Local/Programs/MiKTeX 2.9/tex/latex/lm/t1lmtt.fd"
+(/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (./sections/intro.tex [1
 
-]
+] [2]
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <9> not available
 (Font)              Font shape `T1/lmtt/b/n' tried instead on input line 30.
-[2] [3
-Missing character: There is no ’ (U+2019) in font ec-lmr9!
-Missing character: There is no ’ (U+2019) in font ec-lmr9!
-] [4] [5] [6] [7]) [8] [9] (./sections/projects.tex [10
+[3] [4] [5] [6] [7] [8]) [9] (./sections/projects.tex [10
 
-] [11]) [12] (./sections/calendar.tex (./sections/weeks/week1.tex) (./sections/
-weeks/week2.tex) (./sections/weeks/week3.tex) (./sections/weeks/week4.tex
-l.14 --- TeX4ht warning --- \Link{longproject}? ---
-l.16 --- TeX4ht warning --- \Link{projformat}? ---
-l.16 --- TeX4ht warning --- \Link{projstyle}? ---
-l.17 --- TeX4ht warning --- \Link{projduration}? ---
-l.18 --- TeX4ht warning --- \Link{projphase}? ---
-l.19 --- TeX4ht warning --- \Link{projideas}? ---
-l.20 --- TeX4ht warning --- \Link{projideas}? ---
-) (./sections/weeks/week5.tex) (./sections/weeks/week6.tex) (./sections/weeks/w
-eek7.tex) (./sections/weeks/week8.tex) (./sections/weeks/week9.tex) (./sections
-/weeks/week10.tex) (./sections/weeks/week11.tex) (./sections/weeks/week12.tex) 
-(./sections/weeks/week13.tex) (./sections/weeks/week14.tex) (./sections/weeks/w
-eek15.tex) (./sections/weeks/week16.tex) [13
+] [11]) [12] (./sections/calendar.tex (./sections/weeks/week1.tex) (./sections/weeks/week2.tex) (./sections/weeks/week3.tex) (./sections/weeks/week4.tex) (./sections/weeks/week5.tex) (./sections/weeks/week6.tex) (./sections/weeks/week7.tex) (./sections/weeks/week8.tex) (./sections/weeks/week9.tex) (./sections/weeks/week10.tex) (./sections/weeks/week11.tex) (./sections/weeks/week12.tex) (./sections/weeks/week13.tex) (./sections/weeks/week14.tex) (./sections/weeks/week15.tex) (./sections/weeks/week16.tex) [13
 
-] [14
-Missing character: There is no ’ (U+2019) in font ec-lmri9!
-Missing character: There is no ń (U+0144) in font ec-lmr9!
-]) [15] (./sections/outro.tex [16
+] [14]) [15] (./sections/outro.tex [16
 
-Missing character: There is no – (U+2013) in font ec-lmr9!
-Missing character: There is no – (U+2013) in font ec-lmr9!
 ] [17] [18] [19] [20] [21] [22]) [23] (./sections/resource.tex [24
 
 ] [25] [26])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-[27]
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 43.
 \BKM@file=\write5
 
 \openout5 = index.out.ps
-(./index.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 43.
-)
+[27] (./index.aux))
 
 Here is how much of LuaTeX's memory you used:
- 17048 strings out of 481368
- 305239,794899 words of node,token memory allocated
- 485 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 2 glyph, 6 attribute, 59 glue_spec,
- 6 attribute_list, 1 write nodes
-   avail lists: 1:3,2:3758,3:6706,4:42,5:1450,6:542,7:29569,8:8,9:3901,10:38,11:
-1624
- 31627 multiletter control sequences out of 65536+200000
- 60 fonts using 5733227 bytes
- 53i,9n,60p,2220b,977s stack positions out of 5000i,500n,10000p,200000b,50000s
-Output written on index.dvi (27 pages, 176924 bytes).
+ 19019 strings out of 478898
+ 305430,953878 words of node,token memory allocated
+ 495 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 2 glyph, 6 attribute, 61 glue_spec, 6 attribute_list, 1 write nodes
+   avail lists: 2:3960,3:6732,4:39,5:1456,6:544,7:29773,8:9,9:3907,10:38,11:1638
+ 35719 multiletter control sequences out of 65536+600000
+ 61 fonts using 5534359 bytes
+ 107i,9n,128p,2214b,981s stack positions out of 5000i,500n,10000p,200000b,100000s
+Output written on index.dvi (27 pages, 178112 bytes).
